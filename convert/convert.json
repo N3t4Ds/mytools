@@ -1,0 +1,43 @@
+{
+  "data": {
+    "url": "https://radioid.net/static/user.csv",
+    "city": {"": "Node",
+      "Beijing": "北京",
+      "Tianjin": "天津"
+    },
+    "country": {
+      "China": "中国",
+      "Hong Kong": "中国香港",
+      "Macao": "中国澳门",
+      "Taiwan": "中国台湾"
+    },
+    "state": {
+      " ": "None",
+      "": "None",
+      "Central Taiwan": "Central Taiwan",
+      "Eastern Taiwan": "Eastern Taiwan",
+      "Hradec Kralove Region": "Hradec Kralove Region",
+      "Northern Taiwan": "Northern Taiwan",
+      "Outlying": "Outlying",
+      "South Carolina": "South Carolina",
+      "Southern Taiwan": "Southern Taiwan",
+      "Taipei": "Taipei",
+      " Shaanxi Ningxia Gansu Qinghai ": "陕西 宁夏 甘肃 青海",
+      "Bei Jing": "北京",
+      "Gui Zhou  Si Chuan ": "贵州 四川",
+      "He Nan  Hu Bei  An Hui": "河南 湖北 安徽",
+      "Hei Long Jiang  Ji Lin  Liao Ning": "黑龙江 吉林 辽宁",
+      "Hong Kong Macao": "香港 澳门",
+      "Hu Nan  Guang Dong  Guang Xi": "湖南 广东 广西",
+      "Inner Mongolia ": "内蒙古",
+      "Macao": "澳门",
+      "Nei Mogol Shan Xi He Bei Tian Jin": "内蒙古 山西 河北 天津",
+      "Shan Dong  Jiang Su": "山东 江苏",
+      "Shan Xi  He Bei  Tian Jin": "山西 河北 天津",
+      "XinJiang": "新疆",
+      "Zhe Jiang  Fu Jian  Jiang Xi": "浙江 福建 江西",
+      "Hong Kong": "香港",
+      "Shanghai": "上海"
+    }
+  }
+}
