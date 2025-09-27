@@ -1,7 +1,7 @@
 # MMDVM Tools
 
 #### 目录
-autostart —— 树莓派raspbian系统用户目录下的~/.config/系统启动后直接进入全屏浏览器显示指定网页。链接地址：https://e.gitee.com/radio-BI3BDH/repos/radio-BI3BDH/tools/raw/master/autostart/mmdvmrpi.desktop
+autostart —— 树莓派raspbian系统用户目录下的~/.config/系统启动后直接进入全屏浏览器显示指定网页。链接地址：https://xget.xi-xu.me/gh/N3t4Ds/mytools/raw/refs/heads/master/autostart/mmdvmrpi.desktop or https://github.com/N3t4Ds/mytools/raw/refs/heads/master/autostart/mmdvmrpi.desktop
 configs —— pi-star,WPSD,WIFI的设置备份
 convert —— MMDVM的user.csv数据转换中文地址并删减为国内通信录
 poweroff —— WPSD串口屏的监听关闭系统，重启系统
