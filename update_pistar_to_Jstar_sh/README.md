@@ -23,4 +23,4 @@
 ###
  
 ####
-此代码抄录自BI7JTA大佬公众号《MMDVM中文帮助》[MMDVM增强工具一文](https://mp.weixin.qq.com/s/UeFkMJGIy1k0igB3dmuM_Q)
+引自：BI7JTA大佬公众号《MMDVM中文帮助》[MMDVM增强工具一文](https://mp.weixin.qq.com/s/UeFkMJGIy1k0igB3dmuM_Q)
